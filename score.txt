@@ -1,0 +1,5 @@
+Name:Ismail HP:100 Enemy death count:5 
+Name:Superman HP:20 Enemy death count:5 
+Name:HULK HP:5 Enemy death count:5 
+Name:Joshua HP:50 Enemy death count:5 
+Name:Howard HP:100 Enemy death count:5 
